@@ -109,8 +109,11 @@ Contains only hash of referenced commit.
  - [SemVer 2.0.0](https://semver.org/)
    - [SemVer GeeksForGeeks](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
    - [Range Spec Cheatsheet](https://devhints.io/semver)
- - [Releasing Conventions](https://drupal.stackexchange.com/questions/99612/what-does-rc-stand-for-when-to-use-alpha-beta-and-dev-instead/99614)
    - [Tagging in Git](https://dev.to/neshaz/a-tutorial-for-tagging-releases-in-git-147e)
+   - [Releasing Conventions](https://drupal.stackexchange.com/questions/99612/what-does-rc-stand-for-when-to-use-alpha-beta-and-dev-instead/99614)
+ - Release Notes:
+   - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+   - [Opinions on Release Notes](https://www.mehdi-khalili.com/better-git-release-notes)
  - Pull Requests: [1](https://gist.github.com/mikepea/863f63d6e37281e329f8), [2](https://github.community/t/best-practices-for-pull-requests/10195)
  - Branching Models: [1](https://www.perforce.com/blog/vcs/best-branching-strategies-high-velocity-development), [2](https://www.perforce.com/blog/vcs/git-branching-model-multiple-releases), [3](https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development#what-feature)
    - [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/)
