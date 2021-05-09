@@ -57,7 +57,7 @@ Break up branches by stage of code maturity.
  - [General Best Practices](https://www.datree.io/resources/github-best-practices)
  - [Version Control](https://ourcodingclub.github.io/tutorials/git/)
  - [SemVer GeeksForGeeks](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
- - [Pull Requests](https://github.community/t/best-practices-for-pull-requests/10195)
+ - Pull Requests: [1](https://gist.github.com/mikepea/863f63d6e37281e329f8), [2](https://github.community/t/best-practices-for-pull-requests/10195)
  - Branching Models: [1](https://www.perforce.com/blog/vcs/best-branching-strategies-high-velocity-development), [2](https://www.perforce.com/blog/vcs/git-branching-model-multiple-releases), [3](https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development#what-feature)
    - [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/)
  - [Commit Message Conventions](https://www.conventionalcommits.org/en/v1.0.0/)
