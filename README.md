@@ -2,14 +2,14 @@
 
 Notes on best practices for using `git` and GitHub.
 
-### Topics
+## Topics
  - Branching Models
  - Releases with SemVer 2.0.0
  - Pull Request Etiquette
  - Commit Messages
  - Deployment
 
-### References
+## References
  - [General Best Practices](https://www.datree.io/resources/github-best-practices)
  - [Version Control](https://ourcodingclub.github.io/tutorials/git/)
  - [SemVer GeeksForGeeks](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
