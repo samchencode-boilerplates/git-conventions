@@ -4,7 +4,7 @@ Notes on best practices for using `git` and GitHub.
 
 ## Topics
  - [Branching Models](#branching-models)
- - Releases with SemVer 2.0.0
+ - [Versioning Releases with SemVer 2.0.0](#versioning-releases)
  - Pull Request Etiquette
  - Commit Messages
  - Deployment
@@ -52,6 +52,10 @@ Break up branches by team.
 ### 4. Stage-Based Development
 
 Break up branches by stage of code maturity.
+
+## Versioning Releases
+
+
 
 ## References
  - [General Best Practices](https://www.datree.io/resources/github-best-practices)
