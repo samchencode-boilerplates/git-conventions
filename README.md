@@ -116,4 +116,4 @@ Contains only hash of referenced commit.
    - [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/)
  - [Commit Message Conventions](https://www.conventionalcommits.org/en/v1.0.0/)
  - [Managing Secrets outside of Version Control](https://www.datree.io/resources/secrets-management-aws)
- - [TWelve Factor App](https://12factor.net/)
+ - [Twelve Factor App](https://12factor.net/)
