@@ -110,7 +110,7 @@ Contains only hash of referenced commit.
    - [SemVer GeeksForGeeks](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
    - [Range Spec Cheatsheet](https://devhints.io/semver)
    - [Tagging in Git](https://dev.to/neshaz/a-tutorial-for-tagging-releases-in-git-147e)
-   - [Releasing Conventions](https://drupal.stackexchange.com/questions/99612/what-does-rc-stand-for-when-to-use-alpha-beta-and-dev-instead/99614)
+   - [Pre-releasing Conventions](https://drupal.stackexchange.com/questions/99612/what-does-rc-stand-for-when-to-use-alpha-beta-and-dev-instead/99614)
  - Release Notes:
    - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
    - [Opinions on Release Notes](https://www.mehdi-khalili.com/better-git-release-notes)
