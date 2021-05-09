@@ -6,6 +6,8 @@ Notes on best practices for using `git` and GitHub.
  - [Branching Models](#branching-models)
  - [Versioning Releases with SemVer 2.0.0](#semantic-versioning)
  - Pull Request Etiquette
+ - Issues
+ - Release Notes or Changelogs
  - Commit Messages
  - Deployment
 
